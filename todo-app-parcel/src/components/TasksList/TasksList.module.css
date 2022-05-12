@@ -1,0 +1,6 @@
+.title {
+    word-break: break-all;
+    padding: 2px 5px 5px 2px;
+    line-height: 1.2;
+    transition: color 0.4s;
+}
